@@ -1,0 +1,17 @@
+Package: dev.rugmj.pinbegone
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: rugmj
+Installed-Size: 176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debians/dev.rugmj.pinbegone_0.0.1_iphoneos-arm64e.deb
+Size: 9890
+MD5sum: 45b77fae95ee608fc5936663f00e171a
+SHA1: e578c9888584672e10b6cf89fd933daab29407bf
+SHA256: 73f86802b57f6a4825c21a1309bd8eb657eb6c0fad026c2f385d940861fbd414
+SHA512: 493686cca7fa903f94eb40cbe8d2fb0a06d0d0845f7812b41a2dbc4c9f6c6d0ff2a25d3f5486bacbb8b73a3307fc41ba12579debb2b5e4777718c002fa8054b9
+Description: Removes the search pill. Don't do drugs
+Name: PinBeGone
+Author: rugmj
+
