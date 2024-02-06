@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      - 'debians/**'
 
 jobs:
   update:
@@ -31,6 +33,4 @@ jobs:
       uses: devops-infra/action-commit-push@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        amend: true
-        no_edit: true
-        force: true
+        commit_message: updates packages
