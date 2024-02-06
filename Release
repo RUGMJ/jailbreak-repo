@@ -1,7 +1,7 @@
-Architectures: iphoneos-arm64e
+Architectures: iphoneos-arm64e iphoneos-arm64 iphoneos-arm
 Codename: rugmj
 Components: main
-Date: Tue, 06 Feb 2024 17:23:13 +0000
+Date: Tue, 06 Feb 2024 17:46:45 +0000
 Description: Rugmj's Repo
 Label: Rugmj's Repo
 Origin: Rugmj's Repo
@@ -10,28 +10,28 @@ Version: 1.0
 MD5Sum:
  2bd602b28996018102b0e14f8a6b38aa              643 Packages
  136dc0e2f7fa17508a42633053638ce8              502 Packages.bz2
- 953806e9b11660f984e433da62a883c0              467 Packages.gz
+ e88dd5c6d5ad30ebee6d3d4b27fdcdcb              467 Packages.gz
  8d3f66bdccb26ea620a97f4d7dcb97a4              528 Packages.xz
  11d8960ead723759f923e7a194e9f1ff              461 Packages.zst
- 951abc48aa61587b66de47827db792e1              196 Release
+ 6b2f98949839d9f01bc0ff18ca4b65ac              224 Release
 SHA1:
  72e551bfe9afea3dbde037b3e4ee27328b399417              643 Packages
  c5036c2d11c8ea7daa0f23704297fb200503639c              502 Packages.bz2
- eb74d96d719c0504d4435efe8c125c75ff1f8e91              467 Packages.gz
+ 74404c9dbddd498acdf3a2410004985eace8ee9d              467 Packages.gz
  aa86ab9bb24b5f0514143827124e7ccdb815001b              528 Packages.xz
  653ab514b3d7a7ded4a188458d9ce63230d51379              461 Packages.zst
- 8e3221a3d0f0b9ee76c87a384d40135827c26870              196 Release
+ 08ffea66f456049e83ebd1a9190344701607e8af              224 Release
 SHA256:
  a89670b0977eb69cffb63e45c676ebd4307613855797d8b1ff569e2741c84221              643 Packages
  db2469658f33e2cfeb1890c054aea27d471658b9a0649cac1dd8e1f5be6a02d9              502 Packages.bz2
- 743b88870dda86404ad7932ce7ef91e70ba9cde927442464ce97b40a2b668bfa              467 Packages.gz
+ 3f2414a3223951ecb552f71e3ca5440bbe1241fdfb6c14d6b4c428eac394516c              467 Packages.gz
  0d782707091e29a7f98269aaa2f81f4ad7e775f04f5d55980f6a711e46c8d128              528 Packages.xz
  70cf375fa653f96700ed03a80307954b362a8a1b6d32c0c696234333391b7aab              461 Packages.zst
- 4c030c8aed4aa245f9d958ae29ef40674429f955a31379d594dc3f0e0505207c              196 Release
+ 9f13bd3332683e329ce1fbd3e9b0ddcc4c4220772a3813fb8e1a093a803d7668              224 Release
 SHA512:
  5173efa0a2d9e2e4500452389e470770b255986b25badf13b4709ce638afc1cc2c00ee16829211951058627d6c547f7feac40e6508eac1a36a4f22f70246b4d3              643 Packages
  b5894777386806f7f7a3c6f9099c84cfd48c123db20e181b82ddfad364ca5bc9d86869ff353608b7f48bc44193c59816c583faf9bbe587e779f41abe6ca39791              502 Packages.bz2
- 0d31054459a8c6382299a1d41e56c1ce57e281ce09fb2c23e5aa122e32ab2b05e7d82582968090d811a7337c4220c5fcf4be6331ceca1d8b06ae302409b89977              467 Packages.gz
+ 9f35d9e181caa501f8c436091f287ecf2f20e404519af69cc551e6262289943a583785b924e43d5c1b92a13793e30443f3011aa627cfe442e22c53e1a50b36ea              467 Packages.gz
  00701db8638d6df824aa23bfa82a1aaa2fa0dd252ae31ef0508a0a2ad65953f1940881d5d446b05801e7a3669e6368004842fc224fe62b931080bf902ed40455              528 Packages.xz
  1a42f677bd918bb5019b15ed29c2c8c74dbebbaa817632e3a5e90adc48a4f366c8bc9c711d02e8c1c1ee3845787eadc0d42e47edf7407dc3e2806842051400a3              461 Packages.zst
- 0e376ee5ca442c4eb5edbc8c564f80769349f268f6a11372611cc96ba5ed0eedbf92c07d290f42a863dd9caa31ff0250518adda7fa0fb84b56508f5f7c88a9dd              196 Release
+ d2c529bd6339ef8d2b694a5f32ceb00a4c7bd5abfb8fb618e5ef1854d8ed90ecfcd296b143c00d5779dcff01b3dc17a8190041a1a2c9d015c871396bebe861a8              224 Release
