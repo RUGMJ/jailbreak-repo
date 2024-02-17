@@ -15,3 +15,20 @@ Description: Removes the search pill. Don't do drugs
 Name: PinBeGone
 Author: rugmj
 
+Package: dev.rugmj.test
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: rugmj
+Installed-Size: 176
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debians/dev.rugmj.test_0.0.1_iphoneos-arm64.deb
+Size: 10232
+MD5sum: 2d1a61fe86579e415096e52aff05e691
+SHA1: cb7fcbc2f49d434e6a92e5d4083240191730e24d
+SHA256: 8a7bc795eb4cae39f297a2b2ca2041764500ca2ff701872ed98cf7adce129a3d
+SHA512: c49234c77234df73957c7f4c22397f1dc91fdff62964cf1f5be9815d7a9ddfc7c8e1af0285f2ece1254bd2d4de03eaf681c1476415159789f6cef86cef4eeefc
+Description: An awesome Orion tweak!
+Name: test
+Author: rugmj
+
