@@ -1,0 +1,71 @@
+/* main.css */
+
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #333;
+	color: white;
+}
+
+header {
+	padding: 2vw;
+	text-align: center;
+	background: #222;
+}
+
+h1 {
+	margin: 0;
+}
+
+main {
+	padding: 2vw;
+	text-align: center;
+}
+
+h2 {
+	margin-top: 0;
+}
+
+menu {
+	list-style-type: none;
+	padding: 0;
+}
+
+menu li {
+	margin-bottom: 2vw;
+}
+
+menu li a {
+	display: inline-block;
+	padding: 2vw 4vw;
+
+	background-color: #333;
+	color: white;
+	text-decoration: none;
+	border-radius: 1vw;
+
+	width: 5vw;
+
+	text-align: center;
+}
+
+menu li a.cydia {
+	background: #654321;
+}
+
+menu li a.installer {
+	background: #1e73be;
+}
+
+menu li a.sileo {
+	background: teal;
+}
+
+menu li a.zebra {
+	background: #9a99a0;
+}
+
+menu li a:hover {
+	filter: brightness(0.8);
+}
