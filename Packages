@@ -1,0 +1,34 @@
+Package: dev.rugmj.brainrot
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: rugmj
+Installed-Size: 35396
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debians/dev.rugmj.brainrot_0.0.1_iphoneos-arm.deb
+Size: 33969242
+MD5sum: 102b589d8ac79f5fff352694baa5bb2e
+SHA1: 458b1c6af263bd908270cbe4f4537c21707cf9a3
+SHA256: 53ef918250ead7cbcfc0052107f1b72725b0c4c424f3d1cc4bc43440a4c4fcb4
+SHA512: 32a0c491418a63102b080c21b4d06894d79d66a53d94a4708684e426e15dab7ad9b2574a273553f3bfad745d174ee6429d5228709224640d1278715f7d074e27
+Description: An awesome Orion tweak!
+Name: BrainRot
+Author: rugmj
+
+Package: dev.rugmj.brainrot
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: rugmj
+Installed-Size: 35396
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debians/dev.rugmj.brainrot_0.0.1_iphoneos-arm64.deb
+Size: 33969038
+MD5sum: 4feb8fec990e48d8239f1be54143e3ae
+SHA1: f22adcc78740718cbbdc65b092a93c4c104737bc
+SHA256: 2484080a325e8749346edace062514bd670efb9ccf31ce72cdab9eb140a16b20
+SHA512: 5fb452ab2b3ee76a014bee521e9f78042c9b65db05d4ae9df605c84eefd57c02290e6b1defa75dfd3830ebdb868b94fa2d5da12f5c80c0342f7bc7694d74e910
+Description: An awesome Orion tweak!
+Name: BrainRot
+Author: rugmj
+
